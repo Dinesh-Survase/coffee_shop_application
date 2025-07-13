@@ -1,1 +1,1 @@
-Modern eCommerce app built with Flutter, allowing users to browse, like, and purchase products. It features a product gallery, favorites, orders, profile management, and attractive UI with smooth navigation and animations.
+Coffee Shop App is a stylish Flutter app where users can browse, favorite, and order coffee. It features a home screen, coffee details, order tracking, and smooth animations for an engaging experience.
